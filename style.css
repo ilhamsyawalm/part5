@@ -268,7 +268,7 @@ h1 {
 }
 
 .prev {
-  background-image: url(../Img/left.png);
+  background-image: url(./Img/left.png);
   margin-left: -100px;
 }
 
