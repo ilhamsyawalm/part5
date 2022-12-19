@@ -142,7 +142,7 @@ table {
 /* Font */
 @font-face {
   font-family: "Bebas";
-  src: url(../fonts/BebasNeue-Regular.woff) format("woff");
+  src: url(./fonts/BebasNeue-Regular.woff) format("woff");
 }
 
 /*Style Utama*/
