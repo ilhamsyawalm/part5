@@ -260,7 +260,7 @@ h1 {
 .prev {
   height: 57px;
   width: 57px;
-  background-image: url(../Img/right.png);
+  background-image: url(./Img/right.png);
   position: absolute;
   top: 45%;
   margin-left: 50px;
